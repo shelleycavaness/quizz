@@ -1,2 +1,0 @@
-# quiztech
-# quizz
